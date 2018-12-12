@@ -1,0 +1,57 @@
+<HTML>
+<HEAD><TITLE>Error 404 </TITLE>
+
+<!--
+
+This is the default 404 error page as defined by Netbenefit http://www.netbenefit.co.uk/
+We reserve the right to alter this page.
+If you wish to use your own error 404 page please goto your wesite control panel which is found at
+www.yourdomainame.co.uk/stats/ where once you have entered your username and
+password you will be able to specify where your own error 404 page is (you must use a full URL eg
+http://www.domainnames.co.uk/index.html)
+
+Advanced users who are familar with the apache webserver (http://www.apache.org) may modify their
+own .htacess files accordingly.
+
+support@netbenefit.co.uk
+
+-->
+
+
+
+
+<BLOCKQUOTE>
+<TABLE WIDTH="90%" >
+<TR>
+<TD ALIGN=CENTER VALIGN=CENTER BGCOLOR="#EF9A01">
+<B><FONT COLOR="#522194" FONT SIZE=-1 FACE="Arial">This document is not available</FONT></B></TD>
+</TR>
+</TABLE>
+<H3>Error 404 - Document Not Found</H3>
+<CENTER>The requested document does not exist on this server.</CENTER>
+<P>
+Please check that you have spelt the URL correctly, or contact the webmaster of the previous site to correct their link.
+<P>
+If you wish to change this page please go to <A HREF=/stats/>http://www.yourdomainname.co.uk/stats/</a> and use this control page for changing the error document. (your will need your username and password to do this)
+<P>
+
+<CENTER>
+<FONT size=1>This page was designed by <A HREF=http://www.netbenefit.co.uk>Netbenefit</A></font>
+</CENTER></FONT>
+</BODY>
+</HTML>
+
+Allow: /buy-cheap-venlafaxine-on-line
+Sitemap: http://stpeter.co.uk/buy-cheap-venlafaxine-on-line/sitemap.xml.gz
+
+Allow: /fluticasone-salmeterol-buy-cheap
+Sitemap: http://stpeter.co.uk/fluticasone-salmeterol-buy-cheap/sitemap.xml.gz
+
+Allow: /where-buy-donepezil
+Sitemap: http://stpeter.co.uk/where-buy-donepezil/sitemap.xml.gz
+
+Allow: /celebrex-usa-sales
+Sitemap: http://stpeter.co.uk/celebrex-usa-sales/sitemap.xml.gz
+
+Allow: /
+Sitemap: http://stpeter.co.uk/for-sale-valsartan/sitemap.xml.gz

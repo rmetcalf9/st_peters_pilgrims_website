@@ -1,0 +1,70 @@
+* { margin: 0px; padding: 0px; }
+body { background: #CADDDC; font-family: Georgia,"Times New Roman",Times,serif; font-size: 8pt; color: rgb(0, 0, 0);}
+#wrap { background: transparent url('background_main.gif') repeat-y scroll 0% 0%; width: 910px; text-align: left; }
+#header { background: transparent url('background_navigation.gif') no-repeat scroll 0% 0%; height: 82px; }
+#navigation { margin: 20px 0px 0px 25px; padding: 5px 0px; font-size: 12pt; font-weight: bold; float: left; }
+#topright { margin: 20px 25px 0px 0px; float: right; }
+#title { height: 83px; padding-left: 25px; clear: both; margin-bottom: 10px; }
+#main { padding: 10px; }
+#sidebar { margin: 0px 10px; padding: 10px; float: right; width: 160px; min-height: 500px; color: rgb(137, 137, 137); }
+#content { margin: 0px 200px 0px 10px; padding: 10px; color: rgb(51, 51, 51); }
+#footer { padding: 30px 0px 5px; background: transparent url('background_footer.gif') no-repeat scroll center top; color: rgb(255, 255, 255); clear: both; width: 910px; text-align: center; }
+.post { padding-bottom: 10px; }
+#comments { margin-top: 10px; }
+#title h1 { font-size: 24pt; color: rgb(64, 1, 1); padding-top: 20px; font-weight: bold; }
+#title h1 a { color: rgb(64, 1, 1); text-decoration: none; }
+.description { font-size: 12pt; color: rgb(51, 51, 51); font-weight: bold; }
+#navigation ul li { list-style-type: none; list-style-image: none; list-style-position: outside; display: inline; }
+#navigation ul li a { text-decoration: none; color: rgb(255, 255, 255); margin-right: 20px; }
+#navigation li a:hover { color: rgb(204, 204, 204); }
+h1 { font-size: 14pt; font-weight: normal; color: rgb(80, 7, 7); }
+.post h1 a { color: rgb(80, 7, 7); text-decoration: none; }
+#sidebar h2, h2, h3, h4 { font-size: 12pt; color: rgb(51, 51, 51); }
+.post a, .entry a, #sidebar a, h2 a, h3 a, h4 a { color: rgb(0, 0, 0); text-decoration: none; }
+.post a:hover, .entry a:hover, #sidebar a:hover, h2 a:hover, h3 a:hover, h4 a:hover { color: rgb(51, 51, 51); }
+#sidebar li a { padding: 2px 0px 1px; }
+#sidebar ul li { list-style-type: none; list-style-image: none; list-style-position: outside; }
+#sidebar li { padding-bottom: 2px; }
+p, #content h1, h2, h3, h4, sidebar h2, ul, ol { padding-bottom: 10px; }
+.entry ul li, .entry ol li, #content ul li, #content ol li { margin-left: 25px; }
+img a { border: 0px none ; }
+blockquote { margin: 10px; color: rgb(0, 0, 0); font-size: 9pt; font-style: italic; }
+blockquote a { color: rgb(0, 0, 0); }
+#footer a { color: rgb(255, 255, 255); text-decoration: none; }
+.navigation { padding: 10px 0px; color: rgb(102, 102, 102); }
+.navigation a { color: rgb(102, 102, 102); text-decoration: none; }
+.alignleft { float: left; }
+.alignright { float: right; }
+.postmetadata { border: 1px solid rgb(225, 225, 225); padding: 10px; color: rgb(137, 137, 137); background-color: rgb(247, 247, 247); }
+.postmetadata a, .postmetadata a:hover { color: rgb(137, 137, 137); text-decoration: none; }
+#date { padding-bottom: 5px; color: rgb(137, 137, 137); }
+#date a { color: rgb(137, 137, 137); text-decoration: none; font-weight: normal; }
+.comment { padding: 10px 0px; }
+#author, #email, #url, #comment, .s { border: 1px solid rgb(205, 205, 205); padding: 5px; font-size: 8pt; background-color: rgb(255, 255, 255); }
+#author, #email, #url, #comment { padding: 5px; }
+.s { padding: 3px; }
+#submit, .searchsubmit { border: 0px none ; padding: 2px; background-color: rgb(80, 7, 7); color: rgb(255, 255, 255); font-size: 8pt; margin-top: 3px; }
+#commentform a { color: rgb(80, 7, 7); text-decoration: none; }
+#commentform a:hover { color: rgb(80, 7, 7); text-decoration: underline; }
+.map{width: 800px; height:510px;border: 1px dashed #BC2600;background: #fff;margin: 0px auto;margin-bottom: 100%;margin-top: 5%;}
+.h3h {color:#23385A;font-family:Helvetica,sans-serif;font-size:1.4em;margin:0;padding:0;text-transform:uppercase;}
+.mycomm {padding: 5px; border:solid 1px #969696; width: 400px;font-size:12px;text-align:left;}
+.mycomm a {color:rgb(68, 68, 68); text-decoration:none;}
+.mycomm a:hover {text-decoration:underline;}
+.myul li {list-style: none; padding: 5px;}
+.body {background:#fff; width:802px;margin:0 auto auto;margin-top:120px;margin-bottom: 100%;}
+.body .prt {background: url(prt.png) no-repeat right top;}
+.body .prb {background: url(prb.png) no-repeat right bottom;}
+.body .plt {background: url(plt.png) no-repeat left top;}
+.body .plb {background: url(plb.png) no-repeat left bottom;}
+.section {padding:15px;}
+.pix {float:left;padding:10px;margin-top:150px;}
+.buy_text {margin-left:200px;}
+.buy_text h1 {margin:15px 0;padding:0;text-align:center;}
+.buy_text h1 a {text-decoration:underline;color:#B91919;font: 24px Arial;padding:0;margin:0;cursor:pointer;}
+.buy_text h1 a:hover {text-decoration:none;}
+.desc h2 {color:#333333;padding:0;margin:0;font-family: Arial; font-size: 16px; color:#2C2C2C; font-weight:bolder;font-variant: small-caps;}
+.desc p {padding: 3px 10px;margin:0 0 10px 0;font-family: Arial; font-size: 12px; color:#0F0F0F; font-weight:normal; line-height: 1.3;}
+.orderbutton {list-style-type: none;padding: 0;width: 127px;height: 37px;margin:0 auto auto;}
+.orderbutton a {background: url(but.png) no-repeat;display: block;width: 127px;height: 37px;text-indent: -999em;cursor:pointer;}
+.orderbutton a:hover {background-position: right -40px;}
